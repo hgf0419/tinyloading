@@ -1,5 +1,5 @@
 {
-  "name": "tinyloading",
+  "name": "@golf-h/tinyloading",
   "version": "1.0.0",
   "description": "A lightweight loading indicator library",
   "main": "dist/tinyloading.cjs.js",
