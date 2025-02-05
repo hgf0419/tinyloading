@@ -1,6 +1,6 @@
 # TinyLoading
 
-[![npm version](https://img.shields.io/npm/v/tinyloading.svg)](https://www.npmjs.com/package/tinyloading)
+[![npm version](https://img.shields.io/npm/v/@golf-h/tinyloading.svg)](https://www.npmjs.com/package/@golf-h/tinyloading)
 [![test coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)]()
 [![bundle size](https://img.shields.io/badge/size-3.2KB-blue)]()
 
@@ -16,7 +16,7 @@
 
 ## 安装
 ```bash
-npm install tinyloading
+npm install @golf-h/tinyloading
 ```
 
 ## 快速开始
